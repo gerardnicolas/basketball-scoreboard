@@ -3,6 +3,16 @@
   font-family: CursedTimer;
 }
 
+@font-face {
+    src: url("OldSport1.ttf");
+    font-family: OldSportOne;
+}
+
+@font-face {
+    src: url("OldSport2.ttf");
+    font-family: OldSportTwo;
+}
+
 body {
     margin: 0;
     font-family: CursedTimer;
@@ -13,6 +23,7 @@ h3 {
     text-align: center;
     font-size: 40px;
     color: white;
+    font-family: OldSportTwo;
 }
 
 .container {
