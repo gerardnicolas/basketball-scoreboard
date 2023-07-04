@@ -63,12 +63,15 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 16px;
+    margin-top: -24px;
 }
 
 .extra-btns {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 24px;
 }
 
 .extra-btn {
